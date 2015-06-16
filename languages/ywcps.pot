@@ -1,0 +1,451 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Product Slider Carousel\n"
+"POT-Creation-Date: 2015-06-16 11:12+0100\n"
+"PO-Revision-Date: 2015-06-16 11:12+0100\n"
+"Last-Translator: \n"
+"Language-Team: Yithemes <plugins@yithemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;_ngettext_noop:1,2;"
+"_n_nooop:1,2;_c,_nc:4c,1,2;_x:1,2c\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../plugin-fw\n"
+
+#: ../includes/class.yith-product-slider-type.php:43
+msgid "YITH WooCommerce Product Slider Carousel"
+msgstr ""
+
+#: ../includes/class.yith-product-slider-type.php:103
+msgctxt "Post Type General Name"
+msgid "YITH WooCommerce Product Slider Carousel"
+msgstr ""
+
+#: ../includes/class.yith-product-slider-type.php:104
+msgctxt "Post Type Singular Name"
+msgid "Product Slider Carousel"
+msgstr ""
+
+#: ../includes/class.yith-product-slider-type.php:105
+#: ../includes/class.yith-woocommerce-product-slider.php:177
+#: ../includes/class.yith-woocommerce-product-slider.php:178
+msgid "Product Slider Carousel"
+msgstr ""
+
+#: ../includes/class.yith-product-slider-type.php:106
+msgid "Parent Item:"
+msgstr ""
+
+#: ../includes/class.yith-product-slider-type.php:107
+msgid "All Product Slider Carousels"
+msgstr ""
+
+#: ../includes/class.yith-product-slider-type.php:108
+msgid "View Product Slider Carousel"
+msgstr ""
+
+#: ../includes/class.yith-product-slider-type.php:109
+#: ../includes/class.yith-product-slider-type.php:110
+msgid "Add New Product Slider Carousel"
+msgstr ""
+
+#: ../includes/class.yith-product-slider-type.php:111
+msgid "Edit Product Slider Carousel"
+msgstr ""
+
+#: ../includes/class.yith-product-slider-type.php:112
+msgid "Update Product Slider Carousel"
+msgstr ""
+
+#: ../includes/class.yith-product-slider-type.php:113
+msgid "Search Product Slider Carousel"
+msgstr ""
+
+#: ../includes/class.yith-product-slider-type.php:114
+msgid "Not found"
+msgstr ""
+
+#: ../includes/class.yith-product-slider-type.php:115
+msgid "Not found in Trash"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-product-slider.php:81
+#: ../includes/class.yith-woocommerce-product-slider.php:162
+msgid "Settings"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-product-slider.php:84
+#: ../includes/class.yith-woocommerce-product-slider.php:166
+msgid "Premium Version"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-product-slider.php:111
+msgid "Plugin Documentation"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-product-slider.php:168
+msgid "Layout 1"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-product-slider.php:169
+msgid "Layout 2"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-product-slider.php:170
+msgid "Layout 3"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-product-slider.php:219
+msgctxt "enhanced select"
+msgid "One result is available, press enter to select it."
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-product-slider.php:220
+msgctxt "enhanced select"
+msgid "%qty% results are available, use up and down arrow keys to navigate."
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-product-slider.php:221
+msgctxt "enhanced select"
+msgid "No matches found"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-product-slider.php:222
+msgctxt "enhanced select"
+msgid "Loading failed"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-product-slider.php:223
+msgctxt "enhanced select"
+msgid "Please enter 1 or more characters"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-product-slider.php:224
+msgctxt "enhanced select"
+msgid "Please enter %qty% or more characters"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-product-slider.php:225
+msgctxt "enhanced select"
+msgid "Please delete 1 character"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-product-slider.php:226
+msgctxt "enhanced select"
+msgid "Please delete %qty% characters"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-product-slider.php:227
+msgctxt "enhanced select"
+msgid "You can only select 1 item"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-product-slider.php:228
+msgctxt "enhanced select"
+msgid "You can only select %qty% items"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-product-slider.php:229
+msgctxt "enhanced select"
+msgid "Loading more results&hellip;"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-product-slider.php:230
+msgctxt "enhanced select"
+msgid "Searching&hellip;"
+msgstr ""
+
+#: ../init.php:34
+msgid ""
+"YITH WooCommerce Product Slider Carousel is enabled but not effective. It "
+"requires WooCommerce in order to work."
+msgstr ""
+
+#: ../init.php:47
+msgid ""
+"You can't activate the free version of YITH WooCommerce Product Slider "
+"Carousel while you are using the premium one."
+msgstr ""
+
+#: ../plugin-options/settings-options.php:22
+msgid "General Settings"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:28
+msgid "Enable Responsive"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:36
+msgid "Product to show"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:39
+msgid ""
+"This option lets you choose the number of products you want to show. -1 for "
+"all"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:48
+msgid "Enable Rtl support"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:55
+msgid "Loop slider"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:56
+msgid "Choose if you want your slider to scroll products continuously"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:64
+msgid "Pagination Speed"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:65
+msgid "Pagination speed in milliseconds"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:74
+msgid "AutoPlay"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:75
+msgid "Insert the autoplay value in milliseconds, enter 0 to disable it"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:83
+msgid "Stop on Hover"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:84
+msgid "Stop autoplay on mouse hover"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:92
+msgid "Show Navigation"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:93
+msgid "Display \"prev\" and \"next\" button"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:101
+msgid "Show Dots Navigation"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:102
+msgid "Show or Hide dots navigation"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:110
+msgid "Animation IN"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:111
+msgid ""
+"Choose entrance animation for a new slide.*Animation functions work only if "
+"there is just one item in the slider and only in browsers that support "
+"perspective property"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:117
+msgid "Animation OUT"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:118
+msgid ""
+"Choose exit animation for a slide. *Animation functions work only if there "
+"is just one item in the slider and only in browsers that support perspective "
+"property"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:125
+msgid "Animation Speed"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:126
+msgid "Enter animation duration in milliseconds"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:139
+msgid "Content Setting"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:144
+msgid "Title"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:147
+msgid "Enter Product Slider Title"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:156
+msgid "Show Title"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:163
+msgid "Choose Product Category"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:164
+msgid "Choose product categories"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:165
+msgid ""
+"Leave this field empty if you want all categories to be shown in the slider"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:172
+msgid "Slider Template"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:173
+msgid "Choose template for Product Slider"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:183
+msgid "Images per row"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:196
+msgid "Order By"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:200
+msgid "Name"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:201
+msgid "Price"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:202
+msgid "Date"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:208
+msgid "Order Type"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:219
+msgid "Use this shortcode in your pages "
+msgstr ""
+
+#: ../templates/admin/premium.php:202 ../templates/admin/premium.php:321
+#, php-format
+msgid ""
+"Upgrade to %1$spremium version%2$s of %1$sYITH WooCommerce Product Slider "
+"Carousel%2$s to benefit from all features!"
+msgstr ""
+
+#: ../templates/admin/premium.php:205 ../templates/admin/premium.php:324
+msgid "UPGRADE"
+msgstr ""
+
+#: ../templates/admin/premium.php:206 ../templates/admin/premium.php:325
+msgid "to the premium version"
+msgstr ""
+
+#: ../templates/admin/premium.php:220
+msgid "Tailor-made responsivity "
+msgstr ""
+
+#: ../templates/admin/premium.php:223
+#, php-format
+msgid ""
+"Total control on your slider at any resolution! With the premium version of "
+"the plugin, you can set the number of elements to show simoultaneously in "
+"the slider according to the specific resolution. Three sizes considered: "
+"%1$sStandard Desktop%2$s (from  767 px to 991 px), %1$stablet%2$s (from 478 "
+"px to 766 px) and %1$smobile%2$s (from 0 to 478 px).\n"
+"                "
+msgstr ""
+
+#: ../templates/admin/premium.php:234
+msgid "Unlimited sliders"
+msgstr ""
+
+#: ../templates/admin/premium.php:237
+msgid ""
+"No restrictions to the number of sliders available. You will be able to "
+"create as many as you want to make products in your shop slide in your site "
+"pages"
+msgstr ""
+
+#: ../templates/admin/premium.php:252
+msgid "Product types"
+msgstr ""
+
+#: ../templates/admin/premium.php:254
+msgid ""
+"Enjoy the possibility to show different product for each slider!\n"
+"                If you did not want to show all products of your shop, you "
+"can select only some of them, according to the following selection criteria:"
+msgstr ""
+
+#: ../templates/admin/premium.php:258
+msgid "“on sale” products"
+msgstr ""
+
+#: ../templates/admin/premium.php:259
+msgid "most purchased products"
+msgstr ""
+
+#: ../templates/admin/premium.php:260
+msgid "free products"
+msgstr ""
+
+#: ../templates/admin/premium.php:261
+msgid "featured products"
+msgstr ""
+
+#: ../templates/admin/premium.php:262
+msgid "most recent products"
+msgstr ""
+
+#: ../templates/admin/premium.php:263
+msgid "products with a specific ID (any product you want to show)"
+msgstr ""
+
+#: ../templates/admin/premium.php:273
+msgid "Template layout"
+msgstr ""
+
+#: ../templates/admin/premium.php:276
+#, php-format
+msgid ""
+"Graphic appearance is an essential requirement for a quality product and a "
+"business card to your users. With the premium version of the plugin, you "
+"will\n"
+"                be able to create %1$sthree different layout%2$s templates "
+"and use them for sliders in your shop."
+msgstr ""
+
+#: ../templates/admin/premium.php:293
+msgid "Hide price and “Add to cart” button"
+msgstr ""
+
+#: ../templates/admin/premium.php:296
+msgid ""
+"Choose to show or hide price and/or “Add to cart” button for products shown "
+"in your slider.\n"
+"                 Two tailor-made options that you can directly control from "
+"plugin option panel."
+msgstr ""
+
+#: ../templates/admin/premium.php:306
+msgid "Widget"
+msgstr ""
+
+#: ../templates/admin/premium.php:309
+msgid ""
+"Add your sliders in sidebars using the widget “YITH WooCommerce Product "
+"Slider Carousel”. Don’t leave anything to chance."
+msgstr ""
